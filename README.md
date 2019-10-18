@@ -19,25 +19,25 @@
 <table border = "1"  cellspacing = "0">
 <tr>
     <td> </td>
-    <td align = "center"  height = "20" width = "125"> <strong> Java </strong> 
+    <td align = "center"  height = "20" width = "127"> <strong> Java </strong> 
 
 </td>
     <td align = "center"  height = "20" width = "127"> <strong> JavaScript 
 
 </strong> </td>
-    <td align = "center"  height = "20" width = "126"> <strong> C++ </strong> 
+    <td align = "center"  height = "20" width = "127"> <strong> C++ </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "126"> <strong> C# </strong> 
+    <td align = "center"  height = "20" width = "127"> <strong> C# </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "126"> <strong> Swift </strong> 
+    <td align = "center"  height = "20" width = "127"> <strong> Swift </strong> 
 
 </td>
  </tr>
  
 <tr>
-    <td align = "center" height = "20" width = "245"> Отличное владение 
+    <td align = "center" height = "20" width = "249"> Отличное владение 
 
 </td>
     <td align = "center"> нет </td>
@@ -47,7 +47,7 @@
     <td align = "center"> нет </td>
  </tr>
  <tr>
-    <td align = "center" height = "20" width = "245"> Хорошее владение </td>
+    <td align = "center" height = "20" width = "249"> Хорошее владение </td>
     <td align = "center"> да </td>
     <td align = "center"> нет </td>
     <td align = "center"> да </td>
@@ -55,7 +55,7 @@
     <td align = "center"> нет </td>
  </tr>
 <tr>
-    <td align = "center" height = "20" width = "245"> Среднее владение </td>
+    <td align = "center" height = "20" width = "249"> Среднее владение </td>
     <td align = "center"> нет </td>
     <td align = "center"> нет </td>
     <td align = "center"> нет </td>
@@ -63,7 +63,7 @@
     <td align = "center"> нет </td>
  </tr>
 <tr>
-    <td align = "center" height = "20" width = "245"> Плохое владение </td>
+    <td align = "center" height = "20" width = "249"> Плохое владение </td>
     <td align = "center"> нет </td>
     <td align = "center"> да </td>
     <td align = "center"> нет </td>
