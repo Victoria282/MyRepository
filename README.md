@@ -31,7 +31,7 @@
     <td align = "center"  height = "20" width = "124"> <strong> C# </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "123"> <strong> Swift </strong> 
+    <td align = "center"  height = "20" width = "124"> <strong> Swift </strong> 
 
 </td>
  </tr>
