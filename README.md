@@ -22,7 +22,7 @@
     <td align = "center"  height = "20" width = "125"> <strong> Java </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "125"> <strong> JavaScript 
+    <td align = "center"  height = "20" width = "127"> <strong> JavaScript 
 
 </strong> </td>
     <td align = "center"  height = "20" width = "126"> <strong> C++ </strong> 
