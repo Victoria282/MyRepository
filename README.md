@@ -37,7 +37,7 @@
  </tr>
  
 <tr>
-    <td align = "center" height = "24" width = "254"> Отличное владение 
+    <td align = "center" height = "24" width = "260"> Отличное владение 
 
 </td>
     <td align = "center"> нет </td>
@@ -47,7 +47,7 @@
     <td align = "center"> нет </td>
  </tr>
  <tr>
-    <td align = "center" height = "24" width = "254"> Хорошее владение </td>
+    <td align = "center" height = "24" width = "260"> Хорошее владение </td>
     <td align = "center"> да </td>
     <td align = "center"> нет </td>
     <td align = "center"> да </td>
@@ -55,7 +55,7 @@
     <td align = "center"> нет </td>
  </tr>
 <tr>
-    <td align = "center" height = "24" width = "254"> Среднее владение </td>
+    <td align = "center" height = "24" width = "260"> Среднее владение </td>
     <td align = "center"> нет </td>
     <td align = "center"> нет </td>
     <td align = "center"> нет </td>
@@ -63,7 +63,7 @@
     <td align = "center"> нет </td>
  </tr>
 <tr>
-    <td align = "center" height = "24" width = "254"> Плохое владение </td>
+    <td align = "center" height = "24" width = "260 Плохое владение </td>
     <td align = "center"> нет </td>
     <td align = "center"> да </td>
     <td align = "center"> нет </td>
