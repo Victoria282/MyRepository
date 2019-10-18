@@ -19,25 +19,25 @@
 <table border = "1"  cellspacing = "0">
 <tr>
     <td> </td>
-    <td align = "center"  height = "20" width = "118"> <strong> Java </strong> 
+    <td align = "center"  height = "20" width = "121"> <strong> Java </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "118"> <strong> JavaScript 
+    <td align = "center"  height = "20" width = "119"> <strong> JavaScript 
 
 </strong> </td>
-    <td align = "center"  height = "20" width = "118"> <strong> C++ </strong> 
+    <td align = "center"  height = "20" width = "119"> <strong> C++ </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "118"> <strong> C# </strong> 
+    <td align = "center"  height = "20" width = "119"> <strong> C# </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "118"> <strong> Swift </strong> 
+    <td align = "center"  height = "20" width = "119"> <strong> Swift </strong> 
 
 </td>
  </tr>
  
 <tr>
-    <td align = "center" height = "20" width = "238"> Отличное владение 
+    <td align = "center" height = "20" width = "240"> Отличное владение 
 
 </td>
     <td align = "center"> нет </td>
@@ -47,7 +47,7 @@
     <td align = "center"> нет </td>
  </tr>
  <tr>
-    <td align = "center" height = "20" width = "238"> Хорошее владение </td>
+    <td align = "center" height = "20" width = "240"> Хорошее владение </td>
     <td align = "center"> да </td>
     <td align = "center"> нет </td>
     <td align = "center"> да </td>
@@ -55,7 +55,7 @@
     <td align = "center"> нет </td>
  </tr>
 <tr>
-    <td align = "center" height = "20" width = "238"> Среднее владение </td>
+    <td align = "center" height = "20" width = "240"> Среднее владение </td>
     <td align = "center"> нет </td>
     <td align = "center"> нет </td>
     <td align = "center"> нет </td>
@@ -63,7 +63,7 @@
     <td align = "center"> нет </td>
  </tr>
 <tr>
-    <td align = "center" height = "20" width = "238"> Плохое владение </td>
+    <td align = "center" height = "20" width = "240"> Плохое владение </td>
     <td align = "center"> нет </td>
     <td align = "center"> да </td>
     <td align = "center"> нет </td>
