@@ -22,13 +22,13 @@
     <td align = "center"  height = "20" width = "124"> <strong> Java </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "123"> <strong> JavaScript 
+    <td align = "center"  height = "20" width = "124"> <strong> JavaScript 
 
 </strong> </td>
     <td align = "center"  height = "20" width = "124"> <strong> C++ </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "123"> <strong> C# </strong> 
+    <td align = "center"  height = "20" width = "124"> <strong> C# </strong> 
 
 </td>
     <td align = "center"  height = "20" width = "123"> <strong> Swift </strong> 
