@@ -1,5 +1,3 @@
-# Victoria282.github.io
-<!DOCTYPE html>
 <html>
 <body  bgcolor="#AFEEEE">
 <h2 align ="center"> Вилкова Виктория Владимировна </h2>
@@ -143,6 +141,6 @@ function getInformation(n) {
 </script>
 
 
-   </body>
+</body>
 </html>
 
