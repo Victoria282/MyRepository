@@ -19,19 +19,19 @@
 <table border = "1"  cellspacing = "0">
 <tr>
     <td> </td>
-    <td align = "center"  height = "20" width = "121"> <strong> Java </strong> 
+    <td align = "center"  height = "20" width = "123"> <strong> Java </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "119"> <strong> JavaScript 
+    <td align = "center"  height = "20" width = "123"> <strong> JavaScript 
 
 </strong> </td>
-    <td align = "center"  height = "20" width = "119"> <strong> C++ </strong> 
+    <td align = "center"  height = "20" width = "122"> <strong> C++ </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "119"> <strong> C# </strong> 
+    <td align = "center"  height = "20" width = "122"> <strong> C# </strong> 
 
 </td>
-    <td align = "center"  height = "20" width = "119"> <strong> Swift </strong> 
+    <td align = "center"  height = "20" width = "122"> <strong> Swift </strong> 
 
 </td>
  </tr>
