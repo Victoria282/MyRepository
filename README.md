@@ -140,7 +140,3 @@ function getInformation(n) {
 }
 </script>
 
-
-</body>
-</html>
-
