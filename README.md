@@ -63,7 +63,7 @@
     <td align = "center"> нет </td>
  </tr>
 <tr>
-    <td align = "center" height = "24" width = "260 Плохое владение </td>
+    <td align = "center" height = "24" width = "260"> Плохое владение </td>
     <td align = "center"> нет </td>
     <td align = "center"> да </td>
     <td align = "center"> нет </td>
